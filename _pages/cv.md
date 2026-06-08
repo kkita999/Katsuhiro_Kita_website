@@ -17,17 +17,74 @@ Education
 * Ph.D in Biochemistry, Kyushu University, 2000
 * M.S., Kyushu University, 1996
 * B.S., Kyushu Universityy, 1994
-
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Science outreach
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+      
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2025 - present: Science Education Alliance-Phage Hunters Advancing Genomics and Evolutionary Science (SEA-PHAGES) program-participating faculty (cohort 18)
+  * Howard Hughes Medical Institute
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+
+* September 2021 - present: Assistant Professor
+  * Department of Biology, St. Francis College
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
+
+* September 2019 - August 2021: Howard Hughes Medical Institute Inclusive Excellence Fellow
+  * Mercy College
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* January 2020 - December 2021: adjunct faculty
+  * Department of Biology and Horticulture, Bergen Community College
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* September 2017 - August 2021: adjunct faculty
+  * Department of Natural Sciences, Mercy College
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* August 2017 - August 2021: adjunct professor
+  * Department of Biology, University of Bridgeport
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* May 2017 - August 2018, May-December 2018, Septemer-December 2019: adjunct Instructor, part-lime Lecturer
+  * Department of Biological Sciences, Rutgers University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* January 2017 - December 2019: Volunteer Scientist
+  * Weill Cornell Medical College of Cornell University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* November 2012 - December 2016: Research Associate
+  * Weill Cornell Medical College of Cornell University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -59,13 +116,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
