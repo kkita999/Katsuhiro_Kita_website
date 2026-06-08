@@ -21,6 +21,9 @@ Education
 Teaching
 ======
 * 2021 fall -
+  BIO-2250 Introduction to Cell Biology and BIO-2250L Cell Biology lab
+  BIO-3303 Genetics and BIO-3303L Genetics lab
+  BIO-3320 Molecular Biology and BIO-3320L Molecular Biology lab
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
