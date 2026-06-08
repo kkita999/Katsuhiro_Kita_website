@@ -11,12 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* "Effective college instruction" (certified), Association of College and University Educators, 2021
+* "Introduction to undergraduate science teaching" (certified), The Rockefeller University, 2016
+* "Research proposals, scientific journalism, and public speaking: inspiration, writing, and evaluation" (Non-degree course; NEUR5004), Joan & Sanford I. Weill Medical College of Cornell University, 2014
+* Ph.D in Biochemistry, Kyushu University, 2000
+* M.S., Kyushu University, 1996
+* B.S., Kyushu Universityy, 1994
 
 Work experience
 ======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
