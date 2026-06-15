@@ -43,17 +43,27 @@ Science outreach
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Publications
+Publications (since 2021 fall, at St. Francis College)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
 
-Talks
+Talks (since 2021 fall, at St. Francis College)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+Meeting presentations by students (since 2021 fall, at St. Francis College)
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Earlier publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
