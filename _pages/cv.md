@@ -33,18 +33,11 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Science outreach
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Publications (since 2021 fall, at St. Francis College)
 ======
+* 2021 fall - St. Francis College
+  BIO-2250 Introduction to Cell Biology and BIO-2250L Cell Biology lab (fall)/BIO-3303 Genetics and BIO-3303L Genetics lab (spring)/BIO-3320 Molecular Biology and BIO-3320L Molecular Biology lab (spring), BIO-3300 Microbiology and BIO-3300L Microbiology (as needed, fall), BIO-4995 Independent Study of Biology (fall-summer-spring), HON-4995 (Honors Independent Study), BIO-1141L Anatomy and Physiology II lab (2026 spring), BIO-1000 Ecology and Environment (for non-majors, online, 2026 spring)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,6 +52,12 @@ Meeting presentations by students (since 2021 fall, at St. Francis College)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Professional service in scientific community (since 2021 fall)
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Earlier publications
