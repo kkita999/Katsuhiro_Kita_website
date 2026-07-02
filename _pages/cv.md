@@ -8,15 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* "Effective college instruction" (certified), Association of College and University Educators, 2021
-* "Introduction to undergraduate science teaching" (certified), The Rockefeller University, 2016
-* "Research proposals, scientific journalism, and public speaking: inspiration, writing, and evaluation" (Non-degree course; NEUR5004), Joan & Sanford I. Weill Medical College of Cornell University, 2014
-* Ph.D in Biochemistry, Kyushu University, 2000
-* M.S., Kyushu University, 1996
-* B.S., Kyushu Universityy, 1994
   
 Teaching
 ======
@@ -131,6 +122,13 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Education
+======
+* "Effective college instruction" (certified), Association of College and University Educators, 2021
+* "Introduction to undergraduate science teaching" (certified), The Rockefeller University, 2016
+* "Research proposals, scientific journalism, and public speaking: inspiration, writing, and evaluation" (Non-degree course; NEUR5004), Joan & Sanford I. Weill Medical College of Cornell University, 2014
+* Ph.D in Biochemistry, Kyushu University, 2000
   
 Skills
 ======
