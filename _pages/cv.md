@@ -60,6 +60,7 @@ Earlier publications
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -122,7 +123,6 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  {% endfor %}</ul>
 
 Education
 ======
@@ -130,7 +130,6 @@ Education
 * "Introduction to undergraduate science teaching" (certified), The Rockefeller University, 2016
 * "Research proposals, scientific journalism, and public speaking: inspiration, writing, and evaluation" (Non-degree course; NEUR5004), Joan & Sanford I. Weill Medical College of Cornell University, 2014
 * Ph.D in Biochemistry, Kyushu University, 2000
-  {% endfor %}</ul>
 
 Skills
 ======
@@ -140,4 +139,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-  {% endfor %}</ul>
