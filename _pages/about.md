@@ -1,9 +1,10 @@
 ---
-layout: about
 permalink: /
 title: "About me"
-permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Welcome to my website! I am an Assistant Professor in the Department of Biology at St. Francis College. 
