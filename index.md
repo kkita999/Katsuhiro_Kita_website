@@ -20,4 +20,4 @@ I studied cytoskeletal biology using high-resolution microscopic imaging in the 
 I have taught Introduction to Cell Biology (and lab), Genetics (and lab), and Molecular Biology (and lab). I also sometimes help teach Microbiology (and lab). As I briefly described in my research interests, I have progressively incorporate C.U.R.E. (Course-based Undergraduate Research Experiences) in my lab courses. In addition to HHMI SEA-PHAGES, BASIL (Biochemistry Authentic Scientific Inquiry Laboratory; led by Rochester Institute of Technology) and D2D (Design to Data; led by the University of California, Davis) will soon be incorporated in my teaching, making St. Francis College as the only NYC 4-year college/university offering nationwide consortia-supported C.U.R.E.
 
 ## Science outreach
-Besides classroom teaching and research with students, I have mentored selected high school students (t
+Besides classroom teaching and research with students, I have mentored selected high school students (Urban Barcode Research Program, DNA Learning Center/Cold Spring Harbor Laboratory) past two years. I have also served as a judge for a few local scientific meetings.
