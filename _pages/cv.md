@@ -36,8 +36,6 @@ Publications (since 2021 fall, at St. Francis College)
 * P. Emigh, S. Krishna, J. Casey, J. Liao, K. Kita, J. Nissen. Student in STEM courses that use group work. 2023 Physics Education Research Conference (PERC) proceedings, 88-94
 * P.V. Thakkar, K. Kita, U.D. Castillo, G. Galletti, N. Madhukar, E.V. Navarro, I. Barasoanin, H.V. Goodson, D. Sackett, J. Fernando Diaz, Y. Lu, A. RoyChoudhury, H. Molina, O. Elemento, M.A. Shah, P. Giannakakou. CLIP-170S is a microtubule +TIP variant that confers resistance to taxanes by impairing drug-target engagement. (2021) Dev. Cell, 56, 3264-3275.e7
 
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Other publications (since 2021 fall, at St. Francis College)
 ======
