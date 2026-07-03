@@ -1,7 +1,7 @@
 ---
 layout: about
 title: "About me"
-permalink: /index.html
+permalink: /
 author_profile: true
 redirect_from: 
   - /about/
