@@ -5,8 +5,10 @@ author_profile: true
 ---
 
 <style>
-  .sidebar .author__urls.social-icons { display: none !important; }
+  /* Only hide the floating/sticky mobile "Follow" button toggle */
   .author__urls-wrapper button { display: none !important; }
+  /* Make sure the actual contact links list remains visible */
+  .author__urls { display: block !important; }
 </style>
 
 Welcome to my website! I am an Assistant Professor in the Department of Biology at St. Francis College. 
