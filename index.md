@@ -2,9 +2,12 @@
 layout: single
 permalink: /
 author_profile: true
-sidebar:
-  nav: ""
 ---
+
+<style>
+  .sidebar .author__urls.social-icons { display: none !important; }
+  .author__urls-wrapper button { display: none !important; }
+</style>
 
 Welcome to my website! I am an Assistant Professor in the Department of Biology at St. Francis College. 
 
