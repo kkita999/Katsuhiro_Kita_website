@@ -352,7 +352,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+# Force deploy sync
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
