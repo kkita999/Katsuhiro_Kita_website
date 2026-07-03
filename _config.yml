@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://kkita999.github.io/Katsuhiro_Kita_website/images/Kita_microscope.jpg"
+  avatar           : "Kita_microscope.jpg"
   name             : "Katsuhiro Kita"
   pronouns         : # example: "he/him"  
   bio              : "Assistant Professor of Biology at St. Francis College"
