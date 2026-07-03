@@ -27,11 +27,22 @@ Teaching
 
 Publications (since 2021 fall, at St. Francis College)
 ======
-* 2021 fall - St. Francis College
-  BIO-2250 Introduction to Cell Biology and BIO-2250L Cell Biology lab (fall)/BIO-3303 Genetics and BIO-3303L Genetics lab (spring)/BIO-3320 Molecular Biology and BIO-3320L Molecular Biology lab (spring), BIO-3300 Microbiology and BIO-3300L Microbiology (as needed, fall), BIO-4995 Independent Study of Biology (fall-summer-spring), HON-4995 (Honors Independent Study), BIO-1141L Anatomy and Physiology II lab (2026 spring), BIO-1000 Ecology and Environment (for non-majors, online, 2026 spring)
+* P. Pineda, A. Fares, M. Feratovic, J. Mendoza, M. Paczkowski, J. Mitchell, K. Kita. Discovery and gene annotation of AS2 bacteriophage Pineda from Staten Island, New York (tetative title). microPubl. Biol., in preparation.
+* K. Kita. Colorectal cancer and the enigma surrounding non-canonical Wnt signaling. Cancers, under review.
+* J. Casey, P. Emigh, K. Kita, S. Krishna, J. Liao, J. Nissen. Belonging and gender in four student-centered STEM courses. (2025) J. Coll. Sci. Teach., 54, 369-378
+* K. Kita, C. Morkos, K. Nolan. Maintenance of stem cell self-renewal by sex chromosomal zinc-finger transcription factors. (2024) World J. Methodol., 14, 97664
+* B. Reece, E.Bahar, A. Cabrera Pereira, L. Witek, K. Kita. A simple staining method using pyronin Y for laser scanning confocal microscopy to evaluate gelatin cryogels. (2024) Bio-Protocol, 14, e5115
+* K. Kita, A. Burdowski. Optical control as a potential strategy to apply microtuble-targeting drugs in colorectal cancer. (2024) World J. Gastroenterol., 30, 1780-1790
+* P. Emigh, S. Krishna, J. Casey, J. Liao, K. Kita, J. Nissen. Student in STEM courses that use group work. 2023 Physics Education Research Conference (PERC) proceedings, 88-94
+* P.V. Thakkar, K. Kita, U.D. Castillo, G. Galletti, N. Madhukar, E.V. Navarro, I. Barasoanin, H.V. Goodson, D. Sackett, J. Fernando Diaz, Y. Lu, A. RoyChoudhury, H. Molina, O. Elemento, M.A. Shah, P. Giannakakou. CLIP-170S is a microtubule +TIP variant that confers resistance to taxanes by impairing drug-target engagement. (2021) Dev. Cell, 56, 3264-3275.e7
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Other publications (since 2021 fall, at St. Francis College)
+======
+* P. Pineda, A. Fares, M. Feratovic, J. Mendoza, M. Paczkowski, J. Mitchell, K. Kita. Discovery and gene annotation of AS2 bacteriophage Pineda from Staten Island, New York (tetative title). microPubl. Biol., in preparation.
 
 Talks (since 2021 fall, at St. Francis College)
 ======
@@ -41,6 +52,7 @@ Talks (since 2021 fall, at St. Francis College)
 
 Meeting presentations by students (since 2021 fall, at St. Francis College)
 ======
+* K. Kita. Colorectal 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
