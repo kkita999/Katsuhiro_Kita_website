@@ -359,5 +359,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-# Reset deployment routing cache v3
-
+# Reset deployment routing cache v2
