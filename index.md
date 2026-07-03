@@ -2,6 +2,8 @@
 layout: single
 permalink: /
 author_profile: true
+sidebar:
+  nav: ""
 ---
 
 Welcome to my website! I am an Assistant Professor in the Department of Biology at St. Francis College. 
