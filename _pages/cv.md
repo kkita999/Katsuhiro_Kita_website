@@ -27,6 +27,7 @@ Teaching
 
 Publications (since 2021 fall, at St. Francis College)
 ======
+* K. Kita, E. Drossos, A. Burdowski. The missing link between the oral bacterium Fusobacterium nucleatum and the cause of colorectal cancer. World J. Gastroenterol., in preparation.
 * P. Pineda, A. Fares, M. Feratovic, J. Mendoza, M. Paczkowski, J. Mitchell, K. Kita. Discovery and gene annotation of AS2 bacteriophage Pineda from Staten Island, New York (tetative title). microPubl. Biol., in preparation.
 * K. Kita. Colorectal cancer and the enigma surrounding non-canonical Wnt signaling. Cancers, under review.
 * J. Casey, P. Emigh, K. Kita, S. Krishna, J. Liao, J. Nissen. Belonging and gender in four student-centered STEM courses. (2025) J. Coll. Sci. Teach., 54, 369-378
@@ -73,7 +74,7 @@ Meeting presentations by students (since 2021 fall, at St. Francis College)
 * E. Rodriguez, J.L. Flores, A. Chelminski, M. Rama, K. Kita. “-catenin, a potential biomarker to distinguish lower recurrence rate in glioma/glioblastoma” 55th MACUB annual meeting, Old Westbury (November, 2022) (runner-up (clinical section poster award))
 * M. Rama, A. Chelminski, E. Rodriguez, J.L. Flores, K. Kita. “Oral cancer p53 splice variants as foreseeable indicators of poor clinical outcomes” 55th MACUB annual meeting, Old Westbury (November, 2022)
 * A. Chelminski, K. Kita. “EGFR-Septin14 fusion as a potential biomarker for shorter overall survival in glioblastoma multiforme” 55th Metropolitan Association of College and University Biologists (MACUB) annual meeting, Old Westbury (November, 2022)
-* 29.	M. Rama, A. Chelminski, E. Rodriguez, J.L. Flores, K. Kita. “p53 splice variants as predictable biomarkers of poor clinical outcomes in oral cancer” University of Buffalo undergraduate research conference (oral presentation; online)
+* M. Rama, A. Chelminski, E. Rodriguez, J.L. Flores, K. Kita. “p53 splice variants as predictable biomarkers of poor clinical outcomes in oral cancer” University of Buffalo undergraduate research conference (oral presentation; online)
 
   
 Professional service in scientific community (since 2021 fall)
@@ -150,15 +151,13 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: 
+  * 
+  * 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 
+  * 
+  * 
 
 Education
 ======
@@ -169,9 +168,7 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
+* 
+  * 
+* 
