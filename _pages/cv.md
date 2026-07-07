@@ -13,18 +13,21 @@ Mentoring student research (since 2021 fall)
 ======
 * 2022 - present: A total of xx students (faculty-mentored research)
 * 2025 - present: Howard Hughes Medical Institute (HHMI) Science Education Alliance-Phage Hunters Advancing Genomics and Evolutionary Science (SEA-PHAGES) program (the entire lab section students in BIO-2250L Cell Biology lab and BIO-3303L Genetics lab)
+  {% endfor %}</ul>
   
 Science outreach (since 2021 fall)
 ======
 * 2025 - present: Three high school students/year, Urban Barcode Research Program (DNA Learning Center/Cold Spring Harbor Laboratory)
 * 2025 : Brooklyn Technical High School students
+  {% endfor %}</ul>
 
 Representative workshops (since 2021 fall)
 ======
 * February 2026 - May 2026: BioGraph FMN (Biologists and Graph Interpresentation Faculty Mentoring Network) 2026 workshop
 * 2025 summer: Nanopore workshop (selected), Cold Spring Harbor Laboratory
 * 
-
+  {% endfor %}</ul>
+  
 Talks (since 2021 fall, at St. Francis College)
 ======
 * 2025 - present: Science Education Alliance-Phage Hunters Advancing Genomics and Evolutionary Science (SEA-PHAGES) program-participating faculty (cohort 18)
