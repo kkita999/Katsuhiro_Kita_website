@@ -19,6 +19,3 @@ Teaching
   BIOL-106N Elementary Microbiology and lab, BIOL-102-21/22 General Biology II lab, BIOL-407 Microbial Genetics, BIOL-320 Microbiology
 * August 2017 - August 2021 Rutgers University, Newark
   120:356 Molecular Biology, 120:335 General Microbiology, 120:235 Microbiology (for Nursing), 120:202 Foundations of Cell and Molecular Biology lab, 120:101 General Biology I, 120:102 General Biology II
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
