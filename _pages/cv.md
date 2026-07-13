@@ -45,7 +45,7 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-
+  {% endfor %}</ul>
       
 Work experience
 ======
@@ -101,6 +101,7 @@ Work experience
 * Summer 
   * 
   * 
+  {% endfor %}</ul>
 
 Education
 ======
@@ -109,9 +110,12 @@ Education
 * "Research proposals, scientific journalism, and public speaking: inspiration, writing, and evaluation" (Non-degree course; NEUR5004), Joan & Sanford I. Weill Medical College of Cornell University, 2014
 * Ph.D in Biochemistry, Kyushu University, 2000
 
+  {% endfor %}</ul>
+
 Skills
 ======
 * 
 * 
   * 
 * 
+  {% endfor %}</ul>
