@@ -9,9 +9,7 @@ author_profile: true
 
 Publications (since 2021 fall, at St. Francis College)
 ======
-* K. Kita, E. Drossos, A. Burdowski. The missing link between the oral bacterium Fusobacterium nucleatum and the cause of colorectal cancer. World J. Gastroenterol., in preparation.
-* P. Pineda, A. Fares, M. Feratovic, J. Mendoza, M. Paczkowski, J. Mitchell, K. Kita. Discovery and gene annotation of AS2 bacteriophage Pineda from Staten Island, New York (tetative title). microPubl. Biol., in preparation.
-* K. Kita. Colorectal cancer and the enigma surrounding non-canonical Wnt signaling. Cancers, under review.
+* K. Kita. Colorectal cancer and the enigma surrounding non-canonical Wnt signaling. (2026) Cancers, 18, 2618
 * J. Casey, P. Emigh, K. Kita, S. Krishna, J. Liao, J. Nissen. Belonging and gender in four student-centered STEM courses. (2025) J. Coll. Sci. Teach., 54, 369-378
 * K. Kita, C. Morkos, K. Nolan. Maintenance of stem cell self-renewal by sex chromosomal zinc-finger transcription factors. (2024) World J. Methodol., 14, 97664
 * B. Reece, E.Bahar, A. Cabrera Pereira, L. Witek, K. Kita. A simple staining method using pyronin Y for laser scanning confocal microscopy to evaluate gelatin cryogels. (2024) Bio-Protocol, 14, e5115
